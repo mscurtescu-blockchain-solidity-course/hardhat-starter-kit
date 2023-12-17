@@ -31,7 +31,7 @@ const networkConfig = {
         vrfWrapper: "0xab18414CD93297B0d12ac29E63Ca20f515b3DB46",
         oracle: "0x6090149792dAAeE9D1D568c9f9a6F6B46AA29eFD",
         jobId: "ca98366cc7314957b8c012c72f05aeeb",
-        subscriptionId: "777",
+        subscriptionId: "7598",
         fee: "100000000000000000",
         fundAmount: "100000000000000000", // 0.1
         automationUpdateInterval: "30",
